@@ -1,1 +1,1 @@
-Excersises from "Scala for Impatients" book
+#Excersises from "Scala for Impatients" book
